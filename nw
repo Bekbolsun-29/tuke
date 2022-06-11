@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <header>
+            <p>Галерея фильмов от Бекболсун</p>
+        </header>
+        <main>
+            <aside>
+              <h1>Комедии</h1>
+
+              <h1>фонтези</h1>
+
+              <h1>Детектив</h1>  
+            </aside>    
+        </main>
+        <footer>
+            <img src="http://img-fotki.yandex.ru/get/58191/31437589.7/0_79f65_a6328b62_XL" width="450px" height="250px"/>
+        </footer>
+    </body>
+</html>
+        
